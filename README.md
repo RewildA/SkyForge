@@ -1,1 +1,9 @@
-#A problem solve on topic 'Will it rain on my parade?'
+# Weather App
+Website to check the weather
+
+## Features 
+- show temperature
+- show humidity
+- city search
+## How to run
+1. Open Index.html
